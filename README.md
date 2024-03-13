@@ -19,6 +19,6 @@ Conclusion: Machine learning models, particularly RandomForestClassifier, can si
 
 Contributing: Contributions to this project are welcome. Please fork the repository, make your changes, and submit a pull request for review.
 
-#Author: Sai Krishna Srinivas Gudipudi
-#Acknowledgments: Dataset sourced from Kaggle, Inspiration from existing works on disease classification using machine learning.
+Author: Sai Krishna Srinivas Gudipudi
+Acknowledgments: Dataset sourced from Kaggle, Inspiration from existing works on disease classification using machine learning.
 
